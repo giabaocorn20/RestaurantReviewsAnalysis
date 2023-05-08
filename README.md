@@ -4,13 +4,13 @@ This is a Jupyter Notebook that uses the SerpApi and Cohere APIs to analyze rest
 ## Prerequisites
 To use this notebook, you'll need to have the following Python packages installed:
 
-serpapi - for retrieving reviews from the SerpApi
-cohere - for performing NLP analysis on the reviews
-matplotlib - for visualizing the data
-pandas - for working with dataframes
-numpy - for performing numerical operations
-sklearn - for machine learning tasks
-nltk - for text processing tasks
+- serpapi - for retrieving reviews from the SerpApi
+- cohere - for performing NLP analysis on the reviews
+- matplotlib - for visualizing the data
+- pandas - for working with dataframes
+- numpy - for performing numerical operations
+- sklearn - for machine learning tasks
+- nltk - for text processing tasks
 
 You'll also need to obtain API keys for the SerpApi and Cohere APIs.
 
